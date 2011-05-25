@@ -2,9 +2,9 @@
 Contributors: iPerceptions
 
 Tags: 4Q, survey, online, customer, satisfaction, measurement, feedback, website, web, site
-Requires at least: x.x.x
-Tested up to: x.x.x
-Stable tag: x.x.x
+Requires at least: 3.0
+Tested up to: 3.1.3
+Stable tag: 0.5
 
 The best way to place your 4Q Survey on a WordPress website. Place the code site-wide, or on a page by page basis.
 
@@ -30,3 +30,8 @@ Remember, the plugin only controls which page(s) your 4Q Survey invites people f
 3. 4Q Survey will have been added to the left-nav interface in WordPress.
 4. Enter your 4Q Survey code into the 4Q Survey plugin configuration screen
 5. Choose to toggle site wide (from the configuration screen), or only on specific pages (from the edit-page interface of the pages you desire).
+
+== Changelog ==
+
+= 0.5 =
+* Beta release.
