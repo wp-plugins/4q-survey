@@ -33,5 +33,8 @@ Remember, the plugin only controls which page(s) your 4Q Survey invites people f
 
 == Changelog ==
 
+= 0.51 =
+* Fixed an input bug.
+
 = 0.5 =
 * Beta release.
