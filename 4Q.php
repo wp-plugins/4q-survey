@@ -4,7 +4,7 @@ Plugin Name: 4Q Plugin
 Plugin URI: 
 Description: The best way to place your 4Q Survey code on your WordPress website. You can place the code site wide, or on a page by page basis.
 Author: iPerceptions
-Version: 0.5
+Version: 0.51
 Author URI: http://www.iperceptions.com
 */
 
@@ -82,7 +82,7 @@ function plugin4Q_options_menu()
 
 	if (isset($_POST['plugin4Q_options_update'] ) ) {
 		$sitewide = ($_POST['4Q_sitewide_checkbox'] == 'true');
-		$html_insert = htmlspecialchars_decode($_POST['plugin4Q_html_insert']);
+		$html_insert = stripslashes(htmlspecialchars_decode($_POST['plugin4Q_html_insert']));
 		plugin4Q_update_sitewide($sitewide);
 		plugin4Q_update_html_insert($html_insert);
 	} else {
