@@ -4,7 +4,7 @@ Contributors: iPerceptions
 Tags: 4Q, survey, online, customer, satisfaction, measurement, feedback, website, web, site
 Requires at least: 3.0
 Tested up to: 3.1.3
-Stable tag: 0.5
+Stable tag: 0.51
 
 The best way to place your 4Q Survey on a WordPress website. Place the code site-wide, or on a page by page basis.
 
