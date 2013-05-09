@@ -4,7 +4,7 @@ Contributors: iPerceptions
 Tags: iPerceptions, 4Q, survey, online, customer, satisfaction, measurement, feedback, website, web, site
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.01
+Stable tag: 1.02
 
 The best way to place your iPerceptions Survey on a WordPress website. Place the code site-wide, or on a page by page basis.
 
@@ -65,12 +65,12 @@ Manual Install
 
 == Screenshots ==
 
-1. Customize the Look and Feel: Make sure your surveys and comment cards reflect the brand your customers trust – yours. Choose from various design templates to personalize with your logo and unique brand identity. From the invitation to thank you page, every element of the research process will look and sound like all your customer communication.
-2. Ask the Right Questions: Easily design your surveys through our Survey Creation Wizard. Or, just do it yourself and edit it in a snap through our survey question setup. With this handy, user -friendly interface, you can create relevant surveys
-3. We Speak 32 Languages: Every voice is important. So whatever language your customers speak, you can collect their feedback. Choose to have your survey appear in over 32 languages.
-4. Survey Invitation Rates at your Command: Who receives your survey? On which device will it appear? How often will certain customers receive it?
-5. Real-Time Performance, At a Glance: It’s all here on your iPerceptions dashboard. Log in for an overview of the all the key metrics you need, including Task Completion and Overall Satisfaction.
-6. Monitor Metrics That Matter Most: Take a closer look at your customers’ website interactions. With iPerceptions you can monitor and highlight the significant aspects of your website experience.
+1. Customize the Look and Feel
+2. Ask the Right Questions
+3. We Speak 32 Languages
+4. Survey Invitation Rates at your Command
+5. Real-Time Performance, At a Glance
+6. Monitor Metrics That Matter Most
 
 == Change log ==
 
