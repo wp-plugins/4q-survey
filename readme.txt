@@ -15,11 +15,11 @@ The iPerceptions Survey WordPress plugin is the best way to deploy a customer fe
 
 With an iPerceptions survey you can:
 
-• Increase conversion by better understanding what your visitors  want
+* Increase conversion by better understanding what your visitors  want
 
-• Head off negative social media by creating a direct dialog with visitor
+* Head off negative social media by creating a direct dialog with visitor
 
-• Better engage visitors by tracking and measuring their level of engagement with different content
+* Better engage visitors by tracking and measuring their level of engagement with different content
 
 iPerceptions launches survey invitations using a line of javascript, placed just above the closing body tag of any page. 
 
@@ -34,19 +34,33 @@ Remember, the plugin only controls which page(s) your iPerceptions Survey invite
 == Installation ==
 
 Easy Install
+
+
 1.	Navigate to your word press admin log in page located at [your wordpress site]/wp-admin
+
 2.	Log-In to the administration area with an administrator account 
+
 3.	From the administration menu, choose Plugins-->Add New 
+
 4.	In the search field type iPerceptions
-5.	Click “Install Now” on the iPerceptions Survey plugin from the search results.
-6.	Once the installation is completed, click “Activate Plugin”
+
+5.	Click Install Now on the iPerceptions Survey plugin from the search results.
+
+6.	Once the installation is completed, click Activate Plugin
+
 
 
 Manual Install
-1.	Download/upload the plugin to your WordPress plugins directory (typically "wp-content/plugins")
-2.	Activate the plugin using the Plugin Admin Dashboard
+
+
+1.	Download/upload the plugin to your WordPress plugins directory (typically "wp-content/plugins").
+
+2.	Activate the plugin using the Plugin Admin Dashboard.
+
 3.	iPerceptions Survey will have been added to the left-navigation interface in WordPress.
-4.	Enter your iPerceptions Survey code into the iPerceptions Survey plugin configuration screen
+
+4.	Enter your iPerceptions Survey code into the iPerceptions Survey plugin configuration screen.
+
 5.	Choose to toggle site wide (from the configuration screen), or only on specific pages (from the edit-page interface of the pages you desire).
 
 == Screenshots ==
