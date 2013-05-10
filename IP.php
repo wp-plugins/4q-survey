@@ -4,7 +4,7 @@ Plugin Name: iPerceptions Customer Feedback Surveys
 Plugin URI: 
 Description: The best way to place your customer feedback surveys on your WordPress website. You can place the code site wide, or on a page by page basis.
 Author: iPerceptions
-Version: 1.04
+Version: 1.05
 Author URI: http://www.iperceptions.com
 */
 

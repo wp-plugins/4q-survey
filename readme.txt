@@ -4,14 +4,14 @@ Contributors: iPerceptions
 Tags: iPerceptions, 4Q, survey, online, customer, satisfaction, measurement, feedback, website, web, site
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.04
+Stable tag: 1.05
 
 The best way to place your iPerceptions Survey on a WordPress website. Place the code site-wide, or on a page by page basis.
 
 
 == Description ==
 
-The iPerceptions Survey WordPress plugin is the best way to deploy a customer feedback survey solution on a WordPress-based website.
+### The iPerceptions Survey WordPress plugin is the best way to deploy a customer feedback survey solution on a WordPress-based website. ###
 
 With an iPerceptions survey you can:
 
@@ -33,7 +33,7 @@ Remember, the plugin only controls which page(s) your iPerceptions Survey invite
 
 == Installation ==
 
-Easy Install
+### Easy Install ###
 
 
 1.	Navigate to your word press admin log in page located at [your wordpress site]/wp-admin
@@ -50,7 +50,7 @@ Easy Install
 
 
 
-Manual Install
+### Manual Install ###
 
 
 1.	Download/upload the plugin to your WordPress plugins directory (typically "wp-content/plugins").
@@ -65,12 +65,12 @@ Manual Install
 
 == Screenshots ==
 
-1. Customize the Look and Feel
-2. Ask the Right Questions
-3. We Speak 32 Languages
-4. Survey Invitation Rates at your Command
-5. Real-Time Performance, At a Glance
-6. Monitor Metrics That Matter Most
+1. Customize the Look and Feel.
+2. Ask the Right Questions.
+3. We Speak 32 Languages.
+4. Survey Invitation Rates at your Command.
+5. Real-Time Performance, At a Glance.
+6. Monitor Metrics That Matter Most.
 
 
 == Change log ==
