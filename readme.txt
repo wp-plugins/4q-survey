@@ -4,7 +4,7 @@ Contributors: iPerceptions
 Tags: iPerceptions, 4Q, survey, online, customer, satisfaction, measurement, feedback, website, web, site
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.05
+Stable tag: 1.06
 
 The best way to place your iPerceptions Survey on a WordPress website. Place the code site-wide, or on a page by page basis.
 
@@ -21,9 +21,11 @@ With an iPerceptions survey you can:
 
 * Better engage visitors by tracking and measuring their level of engagement with different content
 
+[youtube http://www.youtube.com/watch?v=dvMq7VRiEHM]
+
 iPerceptions launches survey invitations using a line of javascript, placed just above the closing body tag of any page. 
 
-Once the plugin is installed, you need to obtain your iPerceptions Survey script. To obtain your iPerceptions Survey code, first log into your iPerceptions account. Select your survey and click on "Collect --> Invitation Code". Copy the code into the box on the iPerceptions Survey plugin configuration page, found in the Wordpress Admin menu under Settings, and push "save".
+Once the plugin is installed, you need to obtain your iPerceptions Survey script. To obtain your iPerceptions Survey code, first log into your iPerceptions account, or create one for free, in the [iPerceptions Portal](https://ips-portal.iperceptions.com/login.aspx?c=). Select your survey and click on "Collect --> Invitation Code". Copy the code into the box on the iPerceptions Survey plugin configuration page, found in the Wordpress Admin menu under Settings, and push "save".
 
 You now have two options for code placement: across the entire site, or on a page by page basis.
 
