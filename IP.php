@@ -4,7 +4,7 @@ Plugin Name: iPerceptions Customer Feedback Surveys
 Plugin URI: 
 Description: The best way to place your customer feedback surveys on your WordPress website. You can place the code site wide, or on a page by page basis.
 Author: iPerceptions
-Version: 1.08
+Version: 1.09
 Author URI: http://www.iperceptions.com
 */
 
@@ -132,7 +132,7 @@ function pluginIP_options_menu()
 				<p><input type="checkbox" name="IP_sitewide_checkbox" value="true"<?php if ($sitewide) echo ' checked="checked"';?> /> <?php _e('Click to enable iPerceptions on every page of your website', 'pluginIP')?></p>
 		<p>If you do not wish to deploy iPerceptions site wide, you can selectively place the iPerceptions code on any given page by checking the "Enable iPerceptions on this page" on the appropriate "Edit Page" interface.</p>
 
-		<p><input type="submit" class="button-primary" name="Submit" value="<?php _e('Save All iPerception Options', 'pluginIP'); ?>" /></p>
+		<p><input type="submit" class="button-primary" name="Submit" value="<?php _e('Save All iPerceptions Options', 'pluginIP'); ?>" /></p>
 	</form></td>
 	</tr></table>
 </div>

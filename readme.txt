@@ -4,7 +4,7 @@ Contributors: iPerceptions
 Tags: iPerceptions, 4Q, survey, online, customer, satisfaction, measurement, feedback, website, web, site
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.08
+Stable tag: 1.09
 
 The best way to place your iPerceptions Survey on a WordPress website. Place the code site-wide, or on a page by page basis.
 
