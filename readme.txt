@@ -33,6 +33,10 @@ To place the code on every page of your site, check the box on the iPerceptions 
 
 Remember, the plugin only controls which page(s) your iPerceptions Survey invites people from. Controlling the invitation rate and on/off status of the script itself needs to be done through the iPerceptions Survey website itself.
 
+
+For any support related questions please visit our dedicated support forum - http://zendesk.iperceptions.com/home
+
+
 == Installation ==
 
 ### Easy Install ###
